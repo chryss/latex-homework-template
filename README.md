@@ -9,13 +9,13 @@ Files
 
 To use, download the following files:
 
-* `GEOS631\_homework.sty` &ndash; the LaTeX package file
-* `GEOS631\_NN\_W01.tex` &ndash; a sample template for Written Assignment #1 
+* `GEOS631_homework.sty` &ndash; the LaTeX package file
+* `GEOS631_NN_W01.tex` &ndash; a sample template for Written Assignment #1 
 * `square.m` &ndash; a sample MATLAB script used in GEOS631\_NN\_W01.tex 
 
 ... or if you use git, clone the entire repository with:
 
-  `$git clone https://github.com/username/Spoon-Knife.git`
+  `$ git clone https://github.com/username/Spoon-Knife.git`
 
 Status
 ------
