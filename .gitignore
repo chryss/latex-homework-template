@@ -1,0 +1,10 @@
+*.pyc
+*.DS_Store
+*.dropbox
+*.tmproj
+*.log
+*.out
+*.aux
+*.gz
+*.toc
+*.pdf
