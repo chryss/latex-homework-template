@@ -15,10 +15,12 @@ To use, download the following files:
 
 ... or if you use git, clone the entire repository with:
 
-  `$ git clone https://github.com/username/Spoon-Knife.git`
+  `$ git clone https://github.com/chryss/latex-homework-template.git`
 
 Status
 ------
+
+License: [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) 
 
 This template is based on an original that has been downloaded from
 http://www.latextemplates.com/template/programming-coding-assignment .
@@ -35,8 +37,8 @@ This template uses a MATLAB script as an example snippet of code,
 most other languages are also usable. Configure them in the 
 "CODE INCLUSION CONFIGURATION" section.
 
-It is licensed under a [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/) 
-license in compliance with the license applicable at latextemplates.com .
+Requires LaTeX2e. Developed and tested under MacTeX-2012 (TeX Live). Please use the 
+"issues" tab at the top of this Github page to notify me of any bugs or requests.
 
-Requires LaTeX2e. Developed and tested under MacTeX-2012 (TeX Live).
-
+Chris Waigl
+2012-09-10
