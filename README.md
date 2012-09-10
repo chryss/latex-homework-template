@@ -9,9 +9,9 @@ Files
 
 To use, download the following files:
 
-* `GEOS631_homework.sty` &ndash; the LaTeX package file
-* `GEOS631_NN_W01.tex` &ndash; a sample template for Written Assignment #1 
-* `square.m` &ndash; a sample MATLAB script used in GEOS631\_NN\_W01.tex 
+* `GEOS631_homework.sty` &ndash; the LaTeX package file. Put this in the same directory as your .tex files.
+* `GEOS631_NN_W01.tex` &ndash; a sample template for Written Assignment #1. Edit this according to your needs.  
+* `square.m` &ndash; a sample MATLAB script used for demonstration purposes in GEOS631\_NN\_W01.tex .
 
 ... or if you use git, clone the entire repository with:
 
